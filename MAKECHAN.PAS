@@ -26,5 +26,5 @@ Begin
   Writeln(one hundred 2,'one hundredshillings notes');
   Writeln(fifty:2,'fifty shillings notes');
   Writeln(shillings:2,'shillings');
- reader
+  readln()
 END.
